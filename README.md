@@ -107,9 +107,11 @@ A task management application exploring CRUD operations and database integration
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xuancanh04&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=21600" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=xuancanh04&show_icons=true&theme=github_dark&hide_border=true&hide=commits,contribs&cache_seconds=86400" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuancanh04&layout=compact&theme=github_dark&hide_border=true&cache_seconds=21600" alt="Top Languages" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuancanh04&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
 
 </div>
 
