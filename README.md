@@ -118,6 +118,10 @@ A task management application exploring CRUD operations and data management.
 
 </div>
 
+<div align="center">
+  <img src="./profile/stats.svg" alt="GitHub Statistics" width="49%" />
+  <img src="./profile/top-langs.svg" alt="Most Used Languages" width="49%" />
+</div>
 ---
 
 ## 🤝 Connect with Me
