@@ -117,11 +117,6 @@ A task management application exploring CRUD operations and data management.
 [![GitHub Streak](https://streak-stats.demolab.com?user=xuancanh04&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-<div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Statistics" width="49%" />
-  <img src="./profile/top-langs.svg" alt="Most Used Languages" width="49%" />
-</div>
 ---
 
 ## 🤝 Connect with Me
