@@ -106,14 +106,6 @@ A task management application exploring CRUD operations and data management.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xuancanh04&show_icons=true&theme=github_dark&hide_border=true&hide=contribs&cache_seconds=21600" alt="GitHub Statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuancanh04&layout=compact&theme=github_dark&hide_border=true&cache_seconds=21600" alt="Most Used Languages" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=xuancanh04&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
