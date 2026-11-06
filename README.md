@@ -106,7 +106,7 @@ A task management application exploring CRUD operations and data management.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xuancanh04&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xuancanh04&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
