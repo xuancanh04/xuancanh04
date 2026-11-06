@@ -103,11 +103,9 @@ A task management application exploring CRUD operations and data management.
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xuancanh04&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="./profile/stats.svg" alt="GitHub Stats" width="400" />
+<img src="./profile/top-langs.svg" alt="Top Languages" width="400" />
 </div>
 
 ---
